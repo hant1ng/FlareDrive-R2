@@ -21,14 +21,14 @@
         <h1 class="app-title" style="font-size: 20px;margin: 0 25px 0 8px; user-select: none;">FlareDrive</h1>
       </a>
 
-      <input type="search" v-model="search" aria-label="Search" placeholder="🍿 输入以全局搜索文件" />
+      <input type="search" v-model="search" aria-label="Search" placeholder="搜索" />
       <div class="menu-button">
         <button class="circle" @click="showMenu = true" style="display: flex; align-items: center;background-color: rgb(245, 245, 245);">
           <p style="
               white-space: nowrap;
               margin: 0 10px 0 0;
               font-size: 16px;
-              font-family: '寒蝉半圆体', -apple-system, BlinkMacSystemFont, 'Segoe UI Adjusted',
+              font-family: '微软雅黑', -apple-system, BlinkMacSystemFont, 'Segoe UI Adjusted',
     'Segoe UI', 'Liberation Sans', sans-serif;"
               class="menu-button-text">
             菜单
