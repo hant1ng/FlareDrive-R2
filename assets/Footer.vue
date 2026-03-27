@@ -2,7 +2,7 @@
   <footer class="footer">
   
 
-    <div class="powered">Powered by <a href="https://workers.cloudflare.com/" target="_blank"
+    <div class="powered">Powered by <a href="https://t.me/ritamadiao" target="_blank"
         rel="noopener noreferrer">Hant</a></div>
 
     <div style="margin:10px 0;">Telegram @ritamadiao</div>
